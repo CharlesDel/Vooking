@@ -1,0 +1,11 @@
+D:\dev\React\booking\VookingAPI\VookingAPI.Data\obj\Debug\VookingAPI.Data.csprojAssemblyReference.cache
+D:\dev\React\booking\VookingAPI\VookingAPI.Data\bin\Debug\VookingAPI.Data.dll.config
+D:\dev\React\booking\VookingAPI\VookingAPI.Data\bin\Debug\VookingAPI.Data.dll
+D:\dev\React\booking\VookingAPI\VookingAPI.Data\bin\Debug\VookingAPI.Data.pdb
+D:\dev\React\booking\VookingAPI\VookingAPI.Data\bin\Debug\EntityFramework.dll
+D:\dev\React\booking\VookingAPI\VookingAPI.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\dev\React\booking\VookingAPI\VookingAPI.Data\bin\Debug\EntityFramework.xml
+D:\dev\React\booking\VookingAPI\VookingAPI.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\dev\React\booking\VookingAPI\VookingAPI.Data\obj\Debug\VookingAPI.Data.csproj.CopyComplete
+D:\dev\React\booking\VookingAPI\VookingAPI.Data\obj\Debug\VookingAPI.Data.dll
+D:\dev\React\booking\VookingAPI\VookingAPI.Data\obj\Debug\VookingAPI.Data.pdb

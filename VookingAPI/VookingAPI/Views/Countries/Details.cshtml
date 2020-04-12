@@ -1,0 +1,42 @@
+﻿@model VookingAPI.Data.Entities.Countries
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Countries</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CountrySortName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CountrySortName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CountryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CountryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CountryPhoneCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CountryPhoneCode)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CountryId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
